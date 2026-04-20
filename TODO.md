@@ -1,0 +1,1 @@
+- [x] Step 1: Set/confirm remote origin to https://github.com/sutharpritesh7877/AushadhiAI.git\n- [x] Step 2: Git pull origin main to sync (no remote main branch initially)\n- [x] Step 3: Git push main (created branch, pushed 121 commits)\n
