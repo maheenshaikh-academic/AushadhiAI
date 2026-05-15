@@ -7,7 +7,8 @@ AushadhiAI is an AI-powered healthcare web application that helps users identify
 The platform is designed especially for non-technical users, elderly users, and multilingual users by providing voice support, image-based recognition, and a guided user experience.
 
 ---
-
+# Project Demo Video
+https://drive.google.com/file/d/1j58abAKhVcvIbHX5mGWXh_KJiqbnlKaJ/view?usp=drivesdk
 # Features
 
 ## Medicine Image Recognition
